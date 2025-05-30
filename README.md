@@ -1,2 +1,2 @@
 # text-editor
-Simple Python Tkinter Txt Editor
+Simple Python Tkinter Text Editor
